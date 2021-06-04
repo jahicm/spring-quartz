@@ -1,4 +1,0 @@
-org\spring\quartz\run\SchedulingRun.class
-org\spring\quartz\beans\SimpleCronBO.class
-org\spring\quartz\config\SpringQuartzConfig.class
-org\spring\quartz\beans\SimpleTriggerBO.class
